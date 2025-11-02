@@ -26,4 +26,7 @@ namespace Infrastructure.Configurations
 			throw new NotImplementedException();
 		}
 	}
+
+
+
 }
